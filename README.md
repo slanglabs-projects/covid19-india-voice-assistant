@@ -33,8 +33,6 @@ If you need to include this directly in an html file, paste the code below befor
 
 ```
 <script src="https://demo.slanglabs.in/utils/dist/covid19-india-voice-assistant.js" charset="utf-8"></script>
-
-
 <link rel="stylesheet" href="https://demo.slanglabs.in/utils/dist/covid19-india-voice-assistant.css">
 
 ```

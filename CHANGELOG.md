@@ -4,6 +4,14 @@
 
 ###### _May 21, 2020_
 
+- Update repo links 
+- Update README.md
+
+
+## 0.1.3
+
+###### _May 21, 2020_
+
 - Fix dependency issue with slang-web-sdk
 
 ## 0.1.2
