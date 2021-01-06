@@ -8,7 +8,7 @@
   "repository": "https://github.com/SlangLabs/covid19-india-voice-assistant/",
   "private": false,
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "slang-web-sdk": "1.0.0"
   },
   "devDependencies": {
